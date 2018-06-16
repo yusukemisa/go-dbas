@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/yusukemisa/goDBAccessServer",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v80",
+	"Deps": []
+}
