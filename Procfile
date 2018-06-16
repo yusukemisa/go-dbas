@@ -1,1 +1,1 @@
-web: goDBAccessServer
+web: go-dbas
