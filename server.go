@@ -8,7 +8,7 @@ import (
 
 func main() {
 	server := &http.Server{
-		Addr: "" + os.Getenv("PORT"),
+		Addr: ":" + os.Getenv("PORT"),
 	}
 	http.HandleFunc("/", handleRequest)
 	server.ListenAndServe()
